@@ -9,7 +9,7 @@
 
 - Organization - [libssh](https://www.libssh.org/)
 
-- Project Proposal - [link](https://summerofcode.withgoogle.com/media/user/17947a8b2ab4/proposal/gAAAAABmRgGjofWug9lcOQDLUMDEWp-aYuiWm7g9sdOE-G8X6lsChazAez3JE8PHQFuVZ02ciTKcy2FLGwWzyqO2BnBZdzDgAdozvUfj2knzyirW0EXxlSg=.pdf)
+- Project Proposal - [link](https://drive.google.com/file/d/1G4qNzz-7Hw8SFSnJyOFrSLoP-bc4a2E-/view)
 
 - Mentors
 
